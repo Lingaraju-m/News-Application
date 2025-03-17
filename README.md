@@ -26,21 +26,6 @@ Make sure you have the following installed:
 Node.js (v14 or later)
 npm (comes with Node.js)
 
-# Installation
-
-1)Clone the repository:
-
-git clone https://github.com/Lingaraju-m/News-Application.git
-cd News-Application
-
-2)Install dependencies:
-
-npm install
-
-3)Run the application:
-
-npm start
-
 The application should now be running at http://localhost:5173.
 
 # How It Works
